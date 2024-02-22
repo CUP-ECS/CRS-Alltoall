@@ -1,0 +1,11 @@
+[submodule "hypre"]
+	path = hypre
+	url = https://github.com/hypre-space/hypre.git
+[submodule "hypre_crs"]
+	path = hypre_crs
+	url = https://github.com/bienz2/neighbor_test.git
+    branch = crs
+[submodule "mpi_advance"]
+	path = mpi_advance
+	url = https://github.com/mpi-advance/locality_aware.git
+    branch = sparse_alltoall
