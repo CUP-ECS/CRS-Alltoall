@@ -12,7 +12,9 @@ sh compile.sh
 ## MPI\_Alltoall\_crs Benchmarks:
 To run MPI\_Alltoall\_crs benchmarks:
 ```
-cd compile-and-run
+cd benchmark_mats
+sh download_and_convert.sh
+cd ../compile-and-run
 cd computer-plus-mpi
 submit bench_alltoall_crs script
 ```
@@ -20,7 +22,9 @@ submit bench_alltoall_crs script
 ## MPI\_Alltoallv\_crs Benchmarks:
 To run MPI\_Alltoallv\_crs benchmarks:
 ```
-cd compile-and-run
+cd benchmark_mats
+sh download_and_convert.sh
+cd ../compile-and-run
 cd computer-plus-mpi
 submit bench_alltoallv_crs script
 ```
