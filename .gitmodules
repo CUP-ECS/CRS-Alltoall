@@ -8,4 +8,4 @@
 [submodule "mpi_advance"]
 	path = mpi_advance
 	url = https://github.com/mpi-advance/locality_aware.git
-    branch = sparse_alltoall
+    branch = reorder_neighbor

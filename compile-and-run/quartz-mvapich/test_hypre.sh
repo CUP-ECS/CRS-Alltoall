@@ -1,7 +1,8 @@
 #!/bin/bash
 
 #SBATCH --nodes=4
-#SBATCH --partition=pbatch
+##SBATCH --partition=pbatch
+#SBATCH --partition=pdebug
 #SBATCH --time=5
 #SBATCH --job-name=hypre_test
 #SBATCH --output=hypre_test.%J.out
