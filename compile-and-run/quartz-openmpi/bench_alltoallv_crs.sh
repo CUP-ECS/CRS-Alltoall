@@ -6,7 +6,7 @@
 #SBATCH --tasks-per-node=32
 #SBATCH --cores-per-socket=16
 #SBATCH --cpus-per-task=1
-#SBATCH --time=00:10:00
+#SBATCH --time=00:25:00
 #SBATCH --partition=pbatch
 ##SBATCH --partition=pdebug
 
