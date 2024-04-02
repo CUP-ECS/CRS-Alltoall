@@ -1,7 +1,7 @@
 #!/bin/bash
 
-git submodule init
-git submodule update --remote
+#git submodule init
+#git submodule update --remote
 
 module load openmpi/4.1.2
 module load cmake/3.23.1
