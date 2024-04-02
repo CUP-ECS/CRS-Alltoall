@@ -1,0 +1,307 @@
+Exported CRS_DIR=/g/g14/bienz1/CRS-Alltoall
+/g/g14/bienz1/CRS-Alltoall/mpi_advance/build_quartz_mvapich/benchmarks
+/g/g14/bienz1/CRS-Alltoall/benchmark_mats/delaunay_n22.pm
+Max N 63
+MPIX_Comm_init time 5.245209e-08
+MPIX_Comm_topo_init time 4.364395e-05
+Max Node Msgs 2
+MPIX_Comm_win_init_time 3.922570e-04
+MPI_Alltoall_crs Time (RMA VERSION): 2.920756e-04
+MPI_Alltoall_crs Time (Personalized VERSION): 4.045670e-04
+MPI_Alltoall_crs Time (Nonblocking VERSION): 5.352519e-04
+MPI_Alltoall_crs Time (Personalized Locality VERSION): 1.936696e-04
+MPI_Alltoall_crs Time (Nonblocking Locality VERSION): 1.838439e-04
+Max N 127
+MPIX_Comm_init time 5.292892e-08
+MPIX_Comm_topo_init time 4.902434e-05
+Max Node Msgs 4
+MPIX_Comm_win_init_time 4.498994e-04
+MPI_Alltoall_crs Time (RMA VERSION): 5.405562e-04
+MPI_Alltoall_crs Time (Personalized VERSION): 8.953104e-04
+MPI_Alltoall_crs Time (Nonblocking VERSION): 1.124740e-03
+MPI_Alltoall_crs Time (Personalized Locality VERSION): 2.665830e-04
+MPI_Alltoall_crs Time (Nonblocking Locality VERSION): 2.273035e-04
+Max N 255
+MPIX_Comm_init time 5.841255e-08
+MPIX_Comm_topo_init time 7.250071e-05
+Max Node Msgs 8
+MPIX_Comm_win_init_time 5.366714e-04
+MPI_Alltoall_crs Time (RMA VERSION): 1.107671e-03
+MPI_Alltoall_crs Time (Personalized VERSION): 2.107731e-03
+MPI_Alltoall_crs Time (Nonblocking VERSION): 2.632021e-03
+MPI_Alltoall_crs Time (Personalized Locality VERSION): 3.666499e-04
+MPI_Alltoall_crs Time (Nonblocking Locality VERSION): 2.936795e-04
+Max N 511
+MPIX_Comm_init time 6.628036e-08
+MPIX_Comm_topo_init time 1.119409e-04
+Max Node Msgs 16
+MPIX_Comm_win_init_time 6.200268e-04
+MPI_Alltoall_crs Time (RMA VERSION): 2.667434e-03
+MPI_Alltoall_crs Time (Personalized VERSION): 4.375004e-03
+MPI_Alltoall_crs Time (Nonblocking VERSION): 5.489822e-03
+MPI_Alltoall_crs Time (Personalized Locality VERSION): 5.152669e-04
+MPI_Alltoall_crs Time (Nonblocking Locality VERSION): 4.355018e-04
+Max N 1019
+MPIX_Comm_init time 1.716614e-07
+MPIX_Comm_topo_init time 2.616429e-04
+Max Node Msgs 32
+MPIX_Comm_win_init_time 8.778739e-04
+MPI_Alltoall_crs Time (RMA VERSION): 1.007676e-02
+MPI_Alltoall_crs Time (Personalized VERSION): 1.172743e-02
+MPI_Alltoall_crs Time (Nonblocking VERSION): 2.995236e-01
+MPI_Alltoall_crs Time (Personalized Locality VERSION): 9.466362e-04
+MPI_Alltoall_crs Time (Nonblocking Locality VERSION): 7.969546e-04
+Max N 1525
+MPIX_Comm_init time 1.454353e-07
+MPIX_Comm_topo_init time 3.537989e-04
+Max Node Msgs 64
+MPIX_Comm_win_init_time 1.155717e-03
+MPI_Alltoall_crs Time (RMA VERSION): 5.480826e-02
+MPI_Alltoall_crs Time (Personalized VERSION): 2.138025e-02
+MPI_Alltoall_crs Time (Nonblocking VERSION): 1.723100e-01
+MPI_Alltoall_crs Time (Personalized Locality VERSION): 1.412473e-03
+MPI_Alltoall_crs Time (Nonblocking Locality VERSION): 1.259584e-03
+/g/g14/bienz1/CRS-Alltoall/benchmark_mats/dielFilterV2clx.pm
+Max N 10
+MPIX_Comm_init time 5.269051e-08
+MPIX_Comm_topo_init time 4.315686e-05
+Max Node Msgs 2
+MPIX_Comm_win_init_time 4.012887e-04
+MPI_Alltoall_crs Time (RMA VERSION): 1.429150e-04
+MPI_Alltoall_crs Time (Personalized VERSION): 9.039426e-05
+MPI_Alltoall_crs Time (Nonblocking VERSION): 1.469486e-04
+MPI_Alltoall_crs Time (Personalized Locality VERSION): 1.299419e-04
+MPI_Alltoall_crs Time (Nonblocking Locality VERSION): 1.211028e-04
+Max N 13
+MPIX_Comm_init time 5.555153e-08
+MPIX_Comm_topo_init time 4.932666e-05
+Max Node Msgs 3
+MPIX_Comm_win_init_time 4.532447e-04
+MPI_Alltoall_crs Time (RMA VERSION): 1.721935e-04
+MPI_Alltoall_crs Time (Personalized VERSION): 1.229157e-04
+MPI_Alltoall_crs Time (Nonblocking VERSION): 1.956151e-04
+MPI_Alltoall_crs Time (Personalized Locality VERSION): 1.652305e-04
+MPI_Alltoall_crs Time (Nonblocking Locality VERSION): 1.400335e-04
+Max N 20
+MPIX_Comm_init time 5.578995e-08
+MPIX_Comm_topo_init time 7.367969e-05
+Max Node Msgs 4
+MPIX_Comm_win_init_time 5.489988e-04
+MPI_Alltoall_crs Time (RMA VERSION): 2.213130e-04
+MPI_Alltoall_crs Time (Personalized VERSION): 1.841397e-04
+MPI_Alltoall_crs Time (Nonblocking VERSION): 2.706382e-04
+MPI_Alltoall_crs Time (Personalized Locality VERSION): 2.335408e-04
+MPI_Alltoall_crs Time (Nonblocking Locality VERSION): 1.906071e-04
+Max N 33
+MPIX_Comm_init time 8.511543e-08
+MPIX_Comm_topo_init time 1.095827e-04
+Max Node Msgs 4
+MPIX_Comm_win_init_time 6.324055e-04
+MPI_Alltoall_crs Time (RMA VERSION): 3.117118e-04
+MPI_Alltoall_crs Time (Personalized VERSION): 2.858949e-04
+MPI_Alltoall_crs Time (Nonblocking VERSION): 3.939774e-04
+MPI_Alltoall_crs Time (Personalized Locality VERSION): 3.030291e-04
+MPI_Alltoall_crs Time (Nonblocking Locality VERSION): 2.634587e-04
+Max N 58
+MPIX_Comm_init time 1.096725e-07
+MPIX_Comm_topo_init time 2.480221e-04
+Max Node Msgs 5
+MPIX_Comm_win_init_time 8.734179e-04
+MPI_Alltoall_crs Time (RMA VERSION): 6.393981e-04
+MPI_Alltoall_crs Time (Personalized VERSION): 6.191754e-04
+MPI_Alltoall_crs Time (Nonblocking VERSION): 7.348490e-04
+MPI_Alltoall_crs Time (Personalized Locality VERSION): 5.219531e-04
+MPI_Alltoall_crs Time (Nonblocking Locality VERSION): 4.030275e-04
+Max N 99
+MPIX_Comm_init time 1.192093e-07
+MPIX_Comm_topo_init time 3.475642e-04
+Max Node Msgs 6
+MPIX_Comm_win_init_time 1.191857e-03
+MPI_Alltoall_crs Time (RMA VERSION): 1.266487e-03
+MPI_Alltoall_crs Time (Personalized VERSION): 9.700680e-04
+MPI_Alltoall_crs Time (Nonblocking VERSION): 1.002729e-03
+MPI_Alltoall_crs Time (Personalized Locality VERSION): 5.386686e-04
+MPI_Alltoall_crs Time (Nonblocking Locality VERSION): 4.063249e-04
+/g/g14/bienz1/CRS-Alltoall/benchmark_mats/germany_osm.pm
+Max N 63
+MPIX_Comm_init time 5.245209e-08
+MPIX_Comm_topo_init time 4.352927e-05
+Max Node Msgs 2
+MPIX_Comm_win_init_time 3.936291e-04
+MPI_Alltoall_crs Time (RMA VERSION): 3.926890e-04
+MPI_Alltoall_crs Time (Personalized VERSION): 5.241814e-04
+MPI_Alltoall_crs Time (Nonblocking VERSION): 7.270460e-04
+MPI_Alltoall_crs Time (Personalized Locality VERSION): 2.541301e-04
+MPI_Alltoall_crs Time (Nonblocking Locality VERSION): 2.510884e-04
+Max N 127
+MPIX_Comm_init time 5.674362e-08
+MPIX_Comm_topo_init time 5.056310e-05
+Max Node Msgs 4
+MPIX_Comm_win_init_time 4.738159e-04
+MPI_Alltoall_crs Time (RMA VERSION): 7.293267e-04
+MPI_Alltoall_crs Time (Personalized VERSION): 1.212824e-03
+MPI_Alltoall_crs Time (Nonblocking VERSION): 1.511567e-03
+MPI_Alltoall_crs Time (Personalized Locality VERSION): 3.515317e-04
+MPI_Alltoall_crs Time (Nonblocking Locality VERSION): 3.312604e-04
+Max N 255
+MPIX_Comm_init time 5.769730e-08
+MPIX_Comm_topo_init time 7.426882e-05
+Max Node Msgs 8
+MPIX_Comm_win_init_time 5.373044e-04
+MPI_Alltoall_crs Time (RMA VERSION): 1.505145e-03
+MPI_Alltoall_crs Time (Personalized VERSION): 2.867932e-03
+MPI_Alltoall_crs Time (Nonblocking VERSION): 3.623334e-03
+MPI_Alltoall_crs Time (Personalized Locality VERSION): 4.401741e-04
+MPI_Alltoall_crs Time (Nonblocking Locality VERSION): 4.062092e-04
+Max N 508
+MPIX_Comm_init time 5.650520e-08
+MPIX_Comm_topo_init time 1.141570e-04
+Max Node Msgs 16
+MPIX_Comm_win_init_time 6.283839e-04
+MPI_Alltoall_crs Time (RMA VERSION): 3.698600e-03
+MPI_Alltoall_crs Time (Personalized VERSION): 5.847737e-03
+MPI_Alltoall_crs Time (Nonblocking VERSION): 9.805295e-03
+MPI_Alltoall_crs Time (Personalized Locality VERSION): 6.344872e-04
+MPI_Alltoall_crs Time (Nonblocking Locality VERSION): 6.078675e-04
+Max N 907
+MPIX_Comm_init time 1.645088e-07
+MPIX_Comm_topo_init time 2.497983e-04
+Max Node Msgs 32
+MPIX_Comm_win_init_time 8.767438e-04
+MPI_Alltoall_crs Time (RMA VERSION): 1.698147e-02
+MPI_Alltoall_crs Time (Personalized VERSION): 1.201806e-02
+MPI_Alltoall_crs Time (Nonblocking VERSION): 2.065460e-02
+MPI_Alltoall_crs Time (Personalized Locality VERSION): 1.267927e-03
+MPI_Alltoall_crs Time (Nonblocking Locality VERSION): 1.190648e-03
+Max N 1077
+MPIX_Comm_init time 1.502037e-07
+MPIX_Comm_topo_init time 3.507900e-04
+Max Node Msgs 64
+MPIX_Comm_win_init_time 1.212456e-03
+MPI_Alltoall_crs Time (RMA VERSION): 3.672319e-02
+MPI_Alltoall_crs Time (Personalized VERSION): 1.306916e-02
+MPI_Alltoall_crs Time (Nonblocking VERSION): 1.819496e-01
+MPI_Alltoall_crs Time (Personalized Locality VERSION): 1.946623e-03
+MPI_Alltoall_crs Time (Nonblocking Locality VERSION): 1.690209e-03
+/g/g14/bienz1/CRS-Alltoall/benchmark_mats/human_gene1.pm
+Max N 63
+MPIX_Comm_init time 5.221367e-08
+MPIX_Comm_topo_init time 4.371929e-05
+Max Node Msgs 2
+MPIX_Comm_win_init_time 3.958464e-04
+MPI_Alltoall_crs Time (RMA VERSION): 3.928182e-04
+MPI_Alltoall_crs Time (Personalized VERSION): 5.636635e-04
+MPI_Alltoall_crs Time (Nonblocking VERSION): 7.375500e-04
+MPI_Alltoall_crs Time (Personalized Locality VERSION): 2.641764e-04
+MPI_Alltoall_crs Time (Nonblocking Locality VERSION): 2.635312e-04
+Max N 127
+MPIX_Comm_init time 5.555153e-08
+MPIX_Comm_topo_init time 5.169201e-05
+Max Node Msgs 4
+MPIX_Comm_win_init_time 4.555278e-04
+MPI_Alltoall_crs Time (RMA VERSION): 7.290001e-04
+MPI_Alltoall_crs Time (Personalized VERSION): 1.320054e-03
+MPI_Alltoall_crs Time (Nonblocking VERSION): 1.685202e-03
+MPI_Alltoall_crs Time (Personalized Locality VERSION): 3.368132e-04
+MPI_Alltoall_crs Time (Nonblocking Locality VERSION): 3.242764e-04
+Max N 255
+MPIX_Comm_init time 5.483627e-08
+MPIX_Comm_topo_init time 7.345223e-05
+Max Node Msgs 8
+MPIX_Comm_win_init_time 5.326793e-04
+MPI_Alltoall_crs Time (RMA VERSION): 1.636493e-03
+MPI_Alltoall_crs Time (Personalized VERSION): 2.945004e-03
+MPI_Alltoall_crs Time (Nonblocking VERSION): 3.829225e-03
+MPI_Alltoall_crs Time (Personalized Locality VERSION): 4.521842e-04
+MPI_Alltoall_crs Time (Nonblocking Locality VERSION): 4.248118e-04
+Max N 511
+MPIX_Comm_init time 8.487701e-08
+MPIX_Comm_topo_init time 1.132994e-04
+Max Node Msgs 16
+MPIX_Comm_win_init_time 6.419444e-04
+MPI_Alltoall_crs Time (RMA VERSION): 3.717799e-03
+MPI_Alltoall_crs Time (Personalized VERSION): 7.878232e-03
+MPI_Alltoall_crs Time (Nonblocking VERSION): 1.139331e-02
+MPI_Alltoall_crs Time (Personalized Locality VERSION): 7.610104e-04
+MPI_Alltoall_crs Time (Nonblocking Locality VERSION): 7.364268e-04
+Max N 1021
+MPIX_Comm_init time 1.263618e-07
+MPIX_Comm_topo_init time 2.465892e-04
+Max Node Msgs 32
+MPIX_Comm_win_init_time 8.913565e-04
+MPI_Alltoall_crs Time (RMA VERSION): 2.062707e-02
+MPI_Alltoall_crs Time (Personalized VERSION): 2.053407e-02
+MPI_Alltoall_crs Time (Nonblocking VERSION): 3.241390e-01
+MPI_Alltoall_crs Time (Personalized Locality VERSION): 1.185615e-03
+MPI_Alltoall_crs Time (Nonblocking Locality VERSION): 1.109664e-03
+Max N 2039
+MPIX_Comm_init time 1.716614e-07
+MPIX_Comm_topo_init time 3.409863e-04
+Max Node Msgs 64
+MPIX_Comm_win_init_time 1.168790e-03
+MPI_Alltoall_crs Time (RMA VERSION): 1.334017e-01
+MPI_Alltoall_crs Time (Personalized VERSION): 2.553297e-01
+MPI_Alltoall_crs Time (Nonblocking VERSION): 3.518190e-01
+MPI_Alltoall_crs Time (Personalized Locality VERSION): 1.836979e-03
+MPI_Alltoall_crs Time (Nonblocking Locality VERSION): 1.708004e-03
+/g/g14/bienz1/CRS-Alltoall/benchmark_mats/NLR.pm
+Max N 63
+MPIX_Comm_init time 5.531311e-08
+MPIX_Comm_topo_init time 4.364300e-05
+Max Node Msgs 2
+MPIX_Comm_win_init_time 4.182985e-04
+MPI_Alltoall_crs Time (RMA VERSION): 3.907504e-04
+MPI_Alltoall_crs Time (Personalized VERSION): 6.506965e-04
+MPI_Alltoall_crs Time (Nonblocking VERSION): 8.609297e-04
+MPI_Alltoall_crs Time (Personalized Locality VERSION): 3.112264e-04
+MPI_Alltoall_crs Time (Nonblocking Locality VERSION): 2.922416e-04
+Max N 127
+MPIX_Comm_init time 5.555153e-08
+MPIX_Comm_topo_init time 5.013752e-05
+Max Node Msgs 4
+MPIX_Comm_win_init_time 4.621027e-04
+MPI_Alltoall_crs Time (RMA VERSION): 7.327142e-04
+MPI_Alltoall_crs Time (Personalized VERSION): 1.360827e-03
+MPI_Alltoall_crs Time (Nonblocking VERSION): 1.684546e-03
+MPI_Alltoall_crs Time (Personalized Locality VERSION): 3.464129e-04
+MPI_Alltoall_crs Time (Nonblocking Locality VERSION): 3.296707e-04
+Max N 255
+MPIX_Comm_init time 6.437302e-08
+MPIX_Comm_topo_init time 7.319164e-05
+Max Node Msgs 8
+MPIX_Comm_win_init_time 5.555804e-04
+MPI_Alltoall_crs Time (RMA VERSION): 1.516829e-03
+MPI_Alltoall_crs Time (Personalized VERSION): 2.743081e-03
+MPI_Alltoall_crs Time (Nonblocking VERSION): 3.881656e-03
+MPI_Alltoall_crs Time (Personalized Locality VERSION): 4.255645e-04
+MPI_Alltoall_crs Time (Nonblocking Locality VERSION): 4.032042e-04
+Max N 510
+MPIX_Comm_init time 5.602837e-08
+MPIX_Comm_topo_init time 1.129379e-04
+Max Node Msgs 16
+MPIX_Comm_win_init_time 6.369259e-04
+MPI_Alltoall_crs Time (RMA VERSION): 3.742628e-03
+MPI_Alltoall_crs Time (Personalized VERSION): 6.827052e-03
+MPI_Alltoall_crs Time (Nonblocking VERSION): 1.046699e-02
+MPI_Alltoall_crs Time (Personalized Locality VERSION): 7.141497e-04
+MPI_Alltoall_crs Time (Nonblocking Locality VERSION): 6.740720e-04
+Max N 1009
+MPIX_Comm_init time 1.239777e-07
+MPIX_Comm_topo_init time 2.516055e-04
+Max Node Msgs 32
+MPIX_Comm_win_init_time 8.751392e-04
+MPI_Alltoall_crs Time (RMA VERSION): 1.951456e-02
+MPI_Alltoall_crs Time (Personalized VERSION): 1.520114e-02
+MPI_Alltoall_crs Time (Nonblocking VERSION): 2.671942e-01
+MPI_Alltoall_crs Time (Personalized Locality VERSION): 1.160479e-03
+MPI_Alltoall_crs Time (Nonblocking Locality VERSION): 1.085017e-03
+Max N 1950
+MPIX_Comm_init time 1.502037e-07
+MPIX_Comm_topo_init time 8.280540e-04
+Max Node Msgs 64
+MPIX_Comm_win_init_time 1.513738e-02
+MPI_Alltoall_crs Time (RMA VERSION): 1.242257e-01
+MPI_Alltoall_crs Time (Personalized VERSION): 1.301921e-01
+MPI_Alltoall_crs Time (Nonblocking VERSION): 3.901811e-01
+MPI_Alltoall_crs Time (Personalized Locality VERSION): 1.872234e-03
+MPI_Alltoall_crs Time (Nonblocking Locality VERSION): 1.716597e-03
